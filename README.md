@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyekavya](https://github.com/eyekavya)
 
-- 📫 How to reach me **eyekavya@outlook.com**
+- 📫 React out to me at **eyekavya@outlook.com**
 
-- ⚡ Fun fact **I'm a Swiftie**
+- ⚡ Fun fact: **I'm a Swiftie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
