@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eyekavya" target="blank"><img src="https://img.shields.io/twitter/follow/eyekavya?logo=twitter&style=for-the-badge" alt="eyekavya" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/eyekavya/Portfolio-React)
+- 🔭 Check out my [Portfolio Website](https://eyekavya.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyekavya](https://github.com/eyekavya)
 
